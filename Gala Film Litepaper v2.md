@@ -1,5 +1,5 @@
 #Gala Film Litepaper#
-###version 1.2###
+###version 2###
 ###November 3, 2023###
 
 ---
@@ -49,7 +49,8 @@ This short introductory paper will delve into the intricacies of Gala Film’s a
 
 Gala Film ($FILM) is a decentralized platform that rewards users for their engagement in consuming and supporting films. With a fair launch model, a node-based emission mechanism, and a viral sharing incentive, the platform ensures a democratized and efficient approach to content distribution and token generation. 
 
----
+
+---
 
 ##Tokenomics Guidelines##
 
@@ -66,7 +67,8 @@ $POPCORN will continue to exist after this initial conversion period. This will 
 Rather than a premine of the total maxSupply, as is common with most tokens, all tokens are instead minted through user engagement, node operation, and content sharing. The max emission rate is a set % of the remainder to the softCap making the emission functionally eternal, but providing a smooth emissions curve of .05% of the remaining tokens to softCap ((maxSupply-totalSupply)*.0005)/day). However, the actual emission rate could be as low as 10% of this amount. 
 
    1. **Operator Supply (50% initial):** The operator begins receiving 50% of the token mint allocations, with this reducing by ~5% annually with total platform decentralization to be achieved within ten years. The operator reserves the right to distribute this token as needed to support ongoing operations, but some basic categories which will be funded from this allocation are:
-    * Development Costs
+
+    * Development Costs
     * Marketing
     * Events
     * Partnerships
@@ -81,13 +83,15 @@ For example, if a publisher or creator brings an independent film to Gala Film, 
 
 Galaxians can only earn tokens by watching if they also actively grow the platform via shares and referred users. This is similar to the early Founder’s Node referral reward model but instead of focusing only on sales/node operation, it also allocates rewards based on actual involvement with the ecosystem, rather than just referred sales.  While this is initially 20% of the emission rate, it increases by 2.5% annually. 
    4. Ecosystem Supporting Behaviors (20% initial and the keystone segment): To encourage the spread of content and attract new users, Gala Film will distribute tokens based on what we deem to be positive ecosystem supporting actions. These actions are entirely at our discretion and determine the number of tokens distributed on any given day. 
-
+
+
 There are many actions which could potentially qualify as ecosystem supporting behaviors. The list of these actions will be published and users will be able to see which actions result in the greatest reward within any given distribution cycle. 
 
 Examples of these actions may include but are not limited to:
 
 * Qualifying Actions (Examples)
-    * Watching
+
+    * Watching
       * Watch Films
       * Watch Series Episodes
     * Support Ecosystem
@@ -105,13 +109,15 @@ Examples of these actions may include but are not limited to:
 
 The key to this distribution is that all actions which qualify as “Ecosystem Supporting Actions” must be publicly visible and verifiable. This means that they either need to be written to chain or available in public in a way that the data surrounding them can be pulled via API and integrated into a distribution formula that is independently verifiable and transparent. 
 
----
+---
+
 
 ##Moments & Scenes##
 
 We are committed to nurturing a vibrant ecosystem where enthusiasts and collectors are not only encouraged but also rewarded for their active participation. A key component to the platform lies in the concept of ‘Moments’ (aka reward earning collectible). Moments are designed to amplify your collection adventure by offering $FILM token incentives that go beyond the ordinary. As you delve into the world of Moments, you’ll discover an innovative token distribution bonus system that celebrates your dedication to your favorite content.
 
-###Components###
+
+###Components###
 * **Moments:** Moments are individual units of a scene extracted from films or series available on the platform. Each Moment is represented as a digital collectible. A significant feature of Moments is their daily earning potential, which rewards Moment holders based on the performance of the associated film or series on the platform. These daily rewards are a function of the popularity and viewership of the content, creating a dynamic value proposition for Moments. 
 
 Importantly, Moments come with varying levels of rarity that dictate their drop rate, ranging from common to golden tier. This rarity factor not only impacts the likelihood of acquiring a particular Moment but also adds an exciting dynamic to the collection process, encouraging users to assemble comprehensive and immersive collections that span various levels of rarity.
@@ -125,7 +131,8 @@ Importantly, Moments come with varying levels of rarity that dictate their drop 
 
 
 * **Scenes:** Scenes are curated collections of Moments, strategically assembled to represent pivotal sequences from films or series. Each film or series featured on the platform will offer a selection of notable Scenes, which users can collect in part or entirety by owning individual Moments that constitute those Scenes. The collection of Scenes adds a layer of engagement and interactivity, allowing users to build a more comprehensive and immersive collection.
-* **Reward Boosts:** The token reward system introduces the concept of boosts, which incentivizes the acquisition of full Scenes and even complete collections of Scenes from a particular film or series. The reward potential of Moments serves as a daily basis for token rewards, while the following additional boosts further enrich the user experience:
+
+* **Reward Boosts:** The token reward system introduces the concept of boosts, which incentivizes the acquisition of full Scenes and even complete collections of Scenes from a particular film or series. The reward potential of Moments serves as a daily basis for token rewards, while the following additional boosts further enrich the user experience:
     * **Scene Completion Boost:** Users who manage to collect all the Moments comprising a full Scene will experience a boost in their daily rewards . This provides an additional incentive for users to assemble complete Scenes from their favorite films or series, adding an element of gamification and accomplishment to the Moments experience.
     * **Full Series/Film Collection Boost:** Achieving the remarkable feat of collecting all the Scenes from a particular film or series results in yet another, and a more significant rewards boost. This encourages users to explore and engage deeply with their favorite content, ultimately creating a compelling ecosystem of film and series-related collections.
 
@@ -133,24 +140,31 @@ The integration of Moments and Scenes into the Gala Film ecosystem creates a uni
 
 ---
 
-##Token Distribution Bonuses##
+
+##Token Distribution Bonuses##
 
 At Gala Film, we are dedicated to nurturing a thriving ecosystem where Galaxians are incentivised to contribute positively. Our token distribution bonus system is designed to reward Galaxians for their engagement & activities within the ecosystem. At the time of writing, there are two activities that can lead to a distribution bonus:
 
-###Existing Bonuses###
-* **Galaverse Scenes (given out during Galaverse Malta 2022):** If a Galaxian’s wallet contains a Galaverse Scene(s), their daily distribution will receive a 0.025% bonus. This bonus stacks and is cumulative for each unique Galverse Scene, allowing Galaxians to earn up to a 0.5% multiplier (20 unique scenes * 0.025% distribution bonus). NOTE: This multiplier is applied for each unique scene; multiple copies of the same scene will not receive additional distribution boosts. For Galaxians who possess all 20 unique Galaverse Scenes, an exceptional 10x bonus will be applied, elevating their distribution bonus to 5%. NOTE: Multiple full sets also do not stack
+
+###Existing Bonuses###
+* **Galaverse Scenes (given out during Galaverse Malta 2022):** If a Galaxian’s wallet contains a Galaverse Scene(s), their daily distribution will receive a 0.025% bonus. This bonus stacks and is cumulative for each unique Galverse Scene, allowing Galaxians to earn up to a 0.5% multiplier (20 unique scenes * 0.025% distribution bonus). NOTE: This multiplier is applied for each unique scene; multiple copies of the same scene will not receive additional distribution boosts.
+ For Galaxians who possess all 20 unique Galaverse Scenes, an exceptional 10x bonus will be applied, elevating their distribution bonus to 5%. NOTE: Multiple full sets also do not stack
 
 * **BT Orbs (sold in early 2022):** If a Galaxian's wallet contains a BT Orb NFT (Limited Edition), their daily distribution will receive a .0125% bonus. This bonus stacks and is cumulative for each BT Orb NFT (Limited Edition) and is unlimited. The Open Edition BT Orb NFTs also receive a bonus, but one which is 10% of the Limited Edition BT Orbs.
 
-* **User Levels:** Galaxian distribution is positively correlated with their User Level. Galaxians will be assigned an User Level based on their activity and contributions within the Gala Film ecosystem. Watching, supporting, referring & collecting will all contribute to a Galaxians User level. More detailed information on User Levels will be provided closer to Token Launch.
-
+
+* **User Levels:** Galaxian distribution is positively correlated with their User Level. Galaxians will be assigned an User Level based on their activity and contributions within the Gala Film ecosystem. Watching, supporting, referring & collecting will all contribute to a Galaxians User level. More detailed information on User Levels will be provided closer to Token Launch.
+
+
 Gala Films and the greater Gala Ecosystem recognizes that our community is at the heart of our success, and we are deeply appreciative of the contributions and enthusiasm of our users. The token distribution bonuses we've outlined are part of our ongoing efforts to express our gratitude and encourage further engagement. We look forward to working closely with our community to refine and expand these bonuses, ensuring that they reflect the values and aspirations we all share in building a dynamic Web3 film proposition.
 
 ---
-
+
+
 ##Crowd-Funding for Filmmakers##
 
-###Content Crowd-funding:###
+
+###Content Crowd-funding:###
 Users can contribute their $FILM tokens to film projects they are interested in. In return for this crowd-funding, they receive unique benefits such as early access to the film, exclusive behind-the-scenes content, etc.
 
 **Token Locks and Delegated Fundraising:** When users allocate tokens to a set pool for a specific film, they may receive early access keys, Mystery Boxes, etc. This pool, however, remains locked until it is handed over to the film which has been funded. These tokens will unlock at a set rate going forward on a set vesting schedule. However, critically, these pools can be delegated and sold BY THE FILMMAKERS to potential investors in the space. This makes the Filmmakers, which already sell equity and raise funds for their films, able to make the decision of whether they would like a slowly vesting block of tokens or to sell them to a fund or VC interest. From an industry perspective, this is similar to bonds which filmmakers typically get from specific jurisdictions to incentivize filmmaking and then which are resold to investors, allowing filmmakers to access the funds themselves. 
@@ -191,7 +205,8 @@ To advance this, Gala Film will operate under a bicameral structure with an elec
 * **The Gala Film DAO:** The long-term plan is for Gala Film to adopt a bicameral structure for robust governance, incorporating a Decentralized Autonomous Organization (DAO) and the Film Node Ecosystem in opposition to one another in a sort of bicameral legislature. The DAO will be composed of $FILM token holders, with each token representing a voting right on proposals affecting the platform.
 * **The Film Node Ecosystem:** The Film Node ecosystem, consisting of individuals or entities running nodes, votes on technical and operational aspects. To enact a proposal, it must garner majority approval from both the DAO and the Node Ecosystem, creating a balance of power. 
 * **The Film Counsel:** A group of five officials, elected by the DAO and the Nodes, effectively “hold the keys” to the ecosystem and are charged with the successful operation of the platform. Initially, these members would be executives of the Gala Films Business Entity, but as decentralization approaches, they should begin to be replaced by elected community members with the first two being elected in the third year of actual operation. 
-
+
+
 
 ---
 
